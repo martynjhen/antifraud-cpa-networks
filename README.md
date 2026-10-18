@@ -2,8 +2,7 @@
 
 Задача: знайти фрод у трафіку 14 партнерських CPA-мереж і вирішити, що робити з кожною - вимкнути, домовлятися чи стежити.
 
-[Звіт](antifraud-report.pdf)(https://docs.google.com/document/d/1uGkWadl3_OUl5vGHd3nGTRuE5lA2UuXTvlHTHgyR-Mo/edit?usp=sharing) · [Дашборд](https://public.tableau.com/views/FraudDetectionDashboard_17850952838620/Dashboard1) · [Ноутбук](antifraud (5).ipynb)
-[Звіт (PDF)](antifraud-report.pdf) [Звіт у Google Docs](https://docs.google.com/document/d/1uGkWadl3_OUl5vGHd3nGTRuE5lA2UuXTvlHTHgyR-Mo/edit?usp=sharing) [Дашборд](https://public.tableau.com/views/FraudDetectionDashboard_17850952838620/Dashboard1) · [Ноутбук](antifraud.ipynb)
+[Звіт (PDF)](antifraud-report.pdf) [Звіт у Google Docs](https://docs.google.com/document/d/1uGkWadl3_OUl5vGHd3nGTRuE5lA2UuXTvlHTHgyR-Mo/edit?usp=sharing) [Дашборд](https://public.tableau.com/views/FraudDetectionDashboard_17850952838620/Dashboard1) [Ноутбук](antifraud.ipynb)
 ## Результат
 
 - Фрод знайшов у трьох мережах: 612 - кардинг, 523 - клікери, 911 - мотивований трафік з тимчасових пошт. На фродові сегменти за період пішло 388 224 - 1,9% бюджету CPA.
